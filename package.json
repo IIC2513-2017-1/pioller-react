@@ -1,8 +1,8 @@
 {
   "name": "mytweetapp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "homepage": "http://IIC2513-2017-1.github.io/pioller-react",
+  "homepage": "https://IIC2513-2017-1.github.io/pioller-react",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",

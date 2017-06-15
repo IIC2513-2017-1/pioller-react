@@ -12,6 +12,12 @@ Este proyecto fue mostrado en vivo durante la clase.
 
 Aquí: [./Introducción a las SPA.pdf](Introducción a las SPA.pdf).
 
+## Demo
+
+Se puede ver la app montada en [Github Pages](https://pages.github.com/) aquí:
+
+DEMO: **https://IIC2513-2017-1.github.io/pioller-react**
+
 ## Development
 
 Clonar repositorio e instalar dependencias:
