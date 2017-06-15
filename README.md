@@ -10,7 +10,7 @@ Este proyecto fue mostrado en vivo durante la clase.
 
 ## Slides
 
-Aquí: [./Introducción a las SPA.pdf](Introducción a las SPA.pdf).
+Aquí: [slides.pdf](./slides.pdf).
 
 ## Demo
 
