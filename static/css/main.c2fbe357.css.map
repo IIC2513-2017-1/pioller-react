@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,UACA,cACA,eACA,sCAA8C","file":"static/css/main.c2fbe357.css","sourcesContent":["body {\n  padding: 0;\n  margin: 0 auto;\n  max-width: 50em;\n  font-family: \"Helvetica\", \"Arial\", sans-serif;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
