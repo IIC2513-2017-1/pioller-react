@@ -8,6 +8,10 @@ Este proyecto fue mostrado en vivo durante la clase.
 * [Node.js & npm](https://nodejs.org/en/)
 * [Yarn](https://github.com/yarnpkg/yarn)
 
+## Slides
+
+Aquí: [./Introducción a las SPA.pdf](Introducción a las SPA.pdf).
+
 ## Development
 
 Clonar repositorio e instalar dependencias:
